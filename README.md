@@ -6,7 +6,7 @@
 
 本项目是我大学一年级学习C语言过程中的作业、考试、习题与答案等内容，均以 [GPLv3.0协议](https://choosealicense.com/licenses/gpl-3.0/) 开源。
 
-因本人能力有限，代码中难免存在错误或其他不足之处。对于这些错误甚至是任何可以优化的地方，请不吝 [提出Issue](issues/new) 。
+因本人能力有限，代码中难免存在错误或其他不足之处。对于这些错误甚至是任何可以优化的地方，请不吝 [提出Issue](https://gitee.com/mmdjiji/clang-learning/issues/new) 。
 
 ## 使用方法
 
