@@ -15,7 +15,7 @@
 git clone https://gitee.com/mmdjiji/clang-learning
 ```
 
-课程内容一共15周，每周的作业会在 `week*` 文件夹中给出，例如第1周的文件夹为 [week1](week1) 。
+课程内容一共15周，每周的作业会在 `week*` 文件夹中给出，例如第1周的文件夹为 [week01](week01) 。
 
 课程一共有6次考试，每次考试的内容会在 `exam*` 文件夹中给出，例如第1次考试的文件夹为 [exam1](exam1) 。
 
