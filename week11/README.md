@@ -100,9 +100,6 @@ new year
 ```
 
 ### 11.1.3 查找子串
-讲解视频:  
-https://www.bilibili.com/video/BV1iQ4y1K7zJ
-
 描述:  
 本题要求实现一个字符串查找的简单函数。
 
